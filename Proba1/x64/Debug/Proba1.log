@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\Ella\Desktop\CodeRun\Proba1\Proba1\main.cpp(166,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ella\Desktop\CodeRun\Proba1\Proba1\main.cpp(208,20): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Ella\Desktop\CodeRun\Proba1\Proba1\main.cpp(209,20): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Proba1.vcxproj -> C:\Users\Ella\Desktop\CodeRun\Proba1\x64\Debug\Proba1.exe
